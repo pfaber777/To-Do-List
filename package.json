@@ -1,0 +1,20 @@
+{
+  "name": "todo_list",
+  "version": "1.0.0",
+  "description": "Simple Todo List",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Todo List"
+  },
+  "keywords": [
+    "HTML5",
+    "CSS3",
+    "JavaScript"
+  ],
+  "author": "Phillip Faber",
+  "license": "ISC"
+}
